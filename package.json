@@ -1,0 +1,16 @@
+{
+  "name": "phrase-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vitor Lopes",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.15.4",
+    "typescript": "^5.9.2"
+  }
+}
